@@ -1,0 +1,3 @@
+../resources/positive/43300f8d4bec2b930342a47dc724ff20.bmp 1 0 0 255 255
+../resources/positive/43300f8d4bec2b930342a47dc724ff20_invert.bmp 1 0 0 255 255
+
